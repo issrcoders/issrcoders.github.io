@@ -1,7 +1,30 @@
-h2 {
-  font-family: 'Raleway', sans-serif;
+body {
+	background: black;
+	color: white;
+	font-family: monospace;
+	text-align: justify;
+	text-shadow: 0 0 4px white;
 }
-
-p {
-  font-family: 'Open Sans', sans-serif;
+.red {
+	color: red;
+	text-shadow: 0 0 4px red;
+}
+.yellow {
+	color: yellow;
+	text-shadow: 0 0 4px yellow;
+}
+.green {
+	color: lime;
+	text-shadow: 0 0 4px lime;
+}
+a {
+	color: white;
+	text-shadow: 0 0 4px white;
+}
+h1 {
+	text-align: center;
+}
+td, th {
+	box-shadow: 0 0 4px white;
+	width: 128px;
 }
