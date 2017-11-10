@@ -29,6 +29,9 @@ a {
 h1 {
 	text-align: center;
 }
+p {
+	font-size: 18px;
+}
 td, th {
 	box-shadow: 0 0 4px white;
 	width: 140px;
