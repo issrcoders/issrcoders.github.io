@@ -37,3 +37,6 @@ td, th {
 	width: 140px;
 	text-align: center;
 }
+th {
+	text-align: center;
+}
