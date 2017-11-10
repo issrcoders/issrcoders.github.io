@@ -1,7 +1,7 @@
 body {
 	background: black;
 	color: white;
-	font-family: monospace;
+	font-family: 'Roboto Mono', monospace;
 	text-align: justify;
 	text-shadow: 0 0 4px white;
 }
