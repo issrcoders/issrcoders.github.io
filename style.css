@@ -5,6 +5,7 @@ body {
 	text-align: justify;
 	text-shadow: 0 0 4px white;
 }
+/* Classes */
 .red {
 	color: red;
 	text-shadow: 0 0 4px red;
@@ -17,6 +18,10 @@ body {
 	color: lime;
 	text-shadow: 0 0 4px lime;
 }
+.underline {
+	text-style: underline;
+}
+/* Elements Styling */
 a {
 	color: white;
 	text-shadow: 0 0 4px white;
