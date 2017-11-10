@@ -35,5 +35,7 @@ p {
 td, th {
 	box-shadow: 0 0 4px white;
 	width: 140px;
+}
+th a {
 	text-align: center;
 }
