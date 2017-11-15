@@ -1,39 +1,41 @@
 body {
-	background: black;
-	color: white;
-	font-family: 'Roboto Mono', monospace;
+	background: white;
+	color: black;
+	font-family: "Roboto Mono", monospace;
 	text-align: justify;
-	text-shadow: 0 0 4px white;
 }
-/* Classes */
+#curriculum {
+	width: 512px;
+	margin-left: calc(50vw - 256px);
+}
+#header_image {
+	margin-left: calc(50vw - 64px);
+	width: 128px;
+}
 .red {
-	color: red;
-	text-shadow: 0 0 4px red;
+	color: maroon;
 }
 .yellow {
-	color: yellow;
-	text-shadow: 0 0 4px yellow;
+	color: olive;
 }
 .green {
-	color: lime;
-	text-shadow: 0 0 4px lime;
+	color: green;
 }
-.underline {
-	text-style: underline;
-}
-/* Elements Styling */
 a {
-	color: white;
-	text-shadow: 0 0 4px white;
+	color: black;
 }
-h1 {
+h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 }
-p {
-	font-size: 18px;
+nav {
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
 }
 td, th {
-	box-shadow: 0 0 4px white;
-	width: 140px;
-	text-align: center;
+	border: 1px solid black;
+	width: 128px;
 }
